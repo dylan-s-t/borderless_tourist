@@ -1,5 +1,7 @@
 # coding=utf-8
 
+# completed on codecademy.com by dylan trerise on 22-dec-2019
+
 destinations = ['Paris, France', 'Shanghai, China', 'Los Angeles, USA', 'São Paulo, Brazil', 'Cairo, Egypt']
 
 test_traveler = ['Erin Wilkes', 'Shanghai, China', ['historical site', 'art']]
